@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2023-07-27 22:03:00
-# 数量：275条
+# 更新：2023-10-23 21:04:59
+# 数量：287条
 # 说明：基于ACL4SSR的ProxyMedia删除OpenAi,YouTube,YTMusic,NetFlix,Bahamut
 
 # ABC
@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,amazon.jobs
 DOMAIN-SUFFIX,amazontools.com
+DOMAIN-SUFFIX,amazontours.com
 DOMAIN-SUFFIX,amazonuniversity.jobs
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,media-amazon.com
