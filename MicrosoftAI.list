@@ -39,8 +39,8 @@ IP-CIDR,64.23.132.171/32,no-resolve
 
 # > New Bing
 # UPDATED: 2024-02-25 16:06:04
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
+# DOMAIN-SUFFIX: 10
+# TOTAL: 10
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,bing.net
@@ -50,3 +50,4 @@ DOMAIN-SUFFIX,bingapistatistics.com
 DOMAIN-SUFFIX,bingsandbox.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
+DOMAIN-SUFFIX,copilot.microsoft.com
