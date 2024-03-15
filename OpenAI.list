@@ -1,6 +1,6 @@
-# NAME: OpenAI
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
+# NAME: Microsoft AI
+
+# > OpenAI
 # UPDATED: 2024-02-25 16:06:04
 # DOMAIN: 3
 # DOMAIN-KEYWORD: 1
@@ -36,3 +36,17 @@ DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-KEYWORD,openai
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
+
+# > New Bing
+# UPDATED: 2024-02-25 16:06:04
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.com.cn
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bingads.com
+DOMAIN-SUFFIX,bingagencyawards.com
+DOMAIN-SUFFIX,bingapistatistics.com
+DOMAIN-SUFFIX,bingsandbox.com
+DOMAIN-SUFFIX,bingvisualsearch.com
+DOMAIN-SUFFIX,bingworld.com
