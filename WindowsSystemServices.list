@@ -1,0 +1,8 @@
+# Windows System Core Services
+# 用于保证系统网络状态检测和时间同步
+DOMAIN,www.msftconnecttest.com
+DOMAIN,www.msftncsi.com
+DOMAIN,time.windows.com
+DOMAIN,time.nist.gov
+DOMAIN,time.apple.com
+DOMAIN,time.asia.apple.com
