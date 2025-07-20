@@ -1,0 +1,26 @@
+# Microsoft Heavy-Traffic Services (Final Version)
+# 结合了双方列表并补充了分享链接, 包含 OneDrive, SharePoint, Windows Update
+
+# OneDrive / SharePoint Core & Legacy
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,oneclient.sfx.ms
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,photos.live.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,skydrive.wns.windows.com
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+
+# OneDrive Sharing Links
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,1drv.ms
+
+# Windows Update
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,update.microsoft.com
+DOMAIN-SUFFIX,download.windowsupdate.com
+DOMAIN-SUFFIX,delivery.dsp.mp.microsoft.com
+DOMAIN-SUFFIX,update.microsoft.com.akadns.net
