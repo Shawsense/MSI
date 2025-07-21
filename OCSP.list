@@ -1,0 +1,11 @@
+# Certificate Revocation List & Online Certificate Status Protocol
+# 证书吊销及状态验证域名，强制直连以解决国内网站首次加载缓慢问题
+DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,comodoca.com
+DOMAIN-SUFFIX,usertrust.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,pki.goog
+DOMAIN-SUFFIX,trust-provider.cn
