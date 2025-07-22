@@ -1,4 +1,0 @@
-# Adobe联网屏蔽
-DOMAIN-SUFFIX,ic.adobe.io
-DOMAIN-REGEX,\\W{10}.adobe.io
-DOMAIN-REGEX,\\W{10}.adobestats.io
