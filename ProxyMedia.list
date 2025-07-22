@@ -1,7 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2024-1-23 22:08:30
-# 数量：294条
-# 说明：基于ACL4SSR的ProxyMedia删除OpenAi,YouTube,YTMusic,NetFlix,Bahamut
+# 更新：2025-04-12 14:50:07
+# 说明：基于ACL4SSR的ProxyMedia删除OpenAi,Ai,Apple内容，YouTube,YTMusic,NetFlix,Bahamut
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -10,13 +9,10 @@ DOMAIN-SUFFIX,go.com
 # AbemaTV
 USER-AGENT,AbemaTV*
 DOMAIN-KEYWORD,abematv.akamaized.net
-DOMAIN,api-abematv.bucketeer.jp
-DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,hayabusa.io
-DOMAIN-SUFFIX,hayabusa.media
 
 # All4
 USER-AGENT,All4*
@@ -48,16 +44,6 @@ DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-SUFFIX,seattlespheres.com
 URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
 
-# AppleNews
-USER-AGENT,AppleNews*
-USER-AGENT,com.apple.news*
-DOMAIN,gspe1-ssl.ls.apple.com
-
-# AppleTV
-DOMAIN,np-edge.itunes.apple.com
-DOMAIN,play-edge.itunes.apple.com
-DOMAIN-SUFFIX,tv.apple.com
-
 # BBCiPlayer
 USER-AGENT,BBCiPlayer*
 DOMAIN-KEYWORD,bbcfmt
@@ -74,12 +60,6 @@ DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
 DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bidi.net.uk
-
-# B_Global
-USER-AGENT,app/bstar*
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,bstarstatic.com
-DOMAIN,pic-bstarstatic.akamaized.net
 
 # DAZN
 USER-AGENT,DAZN*
@@ -201,6 +181,9 @@ USER-AGENT,ITV_Player*
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN-SUFFIX,itv.com
 DOMAIN-SUFFIX,itvstatic.com
+
+# Iwara
+DOMAIN-SUFFIX,iwara.tv
 
 # JOOX
 USER-AGENT,JOOX*
