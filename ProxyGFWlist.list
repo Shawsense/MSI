@@ -1,44 +1,4 @@
-# MyList && Other去重
-DOMAIN-SUFFIX,1password.com
-DOMAIN-SUFFIX,adguard.org
-DOMAIN-SUFFIX,bit.no.com
-DOMAIN-SUFFIX,btlibrary.me
-DOMAIN-SUFFIX,cccat.io
-DOMAIN-SUFFIX,cloudcone.com
-DOMAIN-SUFFIX,gameloft.com
-DOMAIN-SUFFIX,garena.com
-DOMAIN-SUFFIX,hoyolab.com
-DOMAIN-SUFFIX,ip138.com
-DOMAIN-SUFFIX,myteamspeak.com
-DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,ping.pe
-DOMAIN-SUFFIX,teddysun.com
-DOMAIN-SUFFIX,tumbex.com
-DOMAIN-SUFFIX,twdvd.com
-DOMAIN-SUFFIX,unsplash.com
-
-# 国外域名
-DOMAIN-SUFFIX,eu
-DOMAIN-SUFFIX,uk
-DOMAIN-SUFFIX,us
-DOMAIN-SUFFIX,ca
-
-# 国外域名关键字
-DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,abema
-DOMAIN-KEYWORD,appledaily
-DOMAIN-KEYWORD,avtb
-DOMAIN-KEYWORD,beetalk
-DOMAIN-KEYWORD,blogspot
-DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,sci-hub
-DOMAIN-KEYWORD,spotify
-DOMAIN-KEYWORD,whatsapp
-
-# GFW list
-DOMAIN-SUFFIX,gfwlist.start
+# GFW list (Deduplicated by Gemini)
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
 DOMAIN-SUFFIX,0rz.tw
@@ -192,6 +152,7 @@ DOMAIN-SUFFIX,a5.com.ru
 DOMAIN-SUFFIX,aamacau.com
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,abc.net.au
+DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,abchinese.com
 DOMAIN-SUFFIX,abclite.net
 DOMAIN-SUFFIX,abebooks.co.uk
@@ -260,7 +221,6 @@ DOMAIN-SUFFIX,aiweiwei.com
 DOMAIN-SUFFIX,aiweiweiblog.com
 DOMAIN-SUFFIX,ajsands.com
 DOMAIN-SUFFIX,akademiye.org
-DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,akiba-online.com
 DOMAIN-SUFFIX,akiba-web.com
 DOMAIN-SUFFIX,akinator.com
@@ -354,7 +314,6 @@ DOMAIN-SUFFIX,anpopo.com
 DOMAIN-SUFFIX,answering-islam.org
 DOMAIN-SUFFIX,antd.org
 DOMAIN-SUFFIX,anthonycalzadilla.com
-DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,anti1984.com
 DOMAIN-SUFFIX,antichristendom.com
 DOMAIN-SUFFIX,antiwave.net
@@ -395,11 +354,9 @@ DOMAIN-SUFFIX,aplusvpn.com
 DOMAIN-SUFFIX,appadvice.com
 DOMAIN-SUFFIX,appbrain.com
 DOMAIN-SUFFIX,appdownloader.net
-DOMAIN-SUFFIX,appledaily.com.hk
 DOMAIN-SUFFIX,appshopper.com
 DOMAIN-SUFFIX,appsocks.net
 DOMAIN-SUFFIX,appspot-preview.com
-DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,aptoide.com
 DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.is
@@ -430,6 +387,7 @@ DOMAIN-SUFFIX,asg.to
 DOMAIN-SUFFIX,asia-gaming.com
 DOMAIN-SUFFIX,asiaharvest.org
 DOMAIN-SUFFIX,asianage.com
+DOMAIN-SUFFIX,asianews.it
 DOMAIN-SUFFIX,asianfreeforum.com
 DOMAIN-SUFFIX,asiansexdiary.com
 DOMAIN-SUFFIX,asianspiss.com
@@ -451,6 +409,7 @@ DOMAIN-SUFFIX,atgfw.org
 DOMAIN-SUFFIX,athenaeizou.com
 DOMAIN-SUFFIX,atlanta168.com
 DOMAIN-SUFFIX,atlaspost.com
+DOMAIN-SUFFIX,atnext.com
 DOMAIN-SUFFIX,audacy.com
 DOMAIN-SUFFIX,audionow.com
 DOMAIN-SUFFIX,authorizeddns.net
@@ -685,7 +644,6 @@ DOMAIN-SUFFIX,bolehvpn.net
 DOMAIN-SUFFIX,bonbonme.com
 DOMAIN-SUFFIX,bonbonsex.com
 DOMAIN-SUFFIX,bonfoundation.org
-DOMAIN-SUFFIX,bongacams.com
 DOMAIN-SUFFIX,boobstagram.com
 DOMAIN-SUFFIX,book.com.tw
 DOMAIN-SUFFIX,bookdepository.com
@@ -792,44 +750,10 @@ DOMAIN-SUFFIX,byrut.org
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,gfwlist.end
 
-# Amazon
-IP-CIDR,13.32.0.0/15,no-resolve
-IP-CIDR,13.35.0.0/17,no-resolve
-IP-CIDR,18.184.0.0/15,no-resolve
-IP-CIDR,18.194.0.0/15,no-resolve
-IP-CIDR,18.208.0.0/13,no-resolve
-IP-CIDR,18.232.0.0/14,no-resolve
-IP-CIDR,52.58.0.0/15,no-resolve
-IP-CIDR,52.74.0.0/16,no-resolve
-IP-CIDR,52.77.0.0/16,no-resolve
-IP-CIDR,52.84.0.0/15,no-resolve
-IP-CIDR,52.200.0.0/13,no-resolve
-IP-CIDR,54.93.0.0/16,no-resolve
-IP-CIDR,54.156.0.0/14,no-resolve
-IP-CIDR,54.226.0.0/15,no-resolve
-IP-CIDR,54.230.156.0/22,no-resolve
-
-# BBC
-DOMAIN-KEYWORD,uk-live
-
 # Developer 开发者常用国外网站、镜像和论坛
-DOMAIN-SUFFIX,apache.org
-DOMAIN-SUFFIX,elastic.co
-DOMAIN-SUFFIX,elastic.com
-DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,jitpack.io
-DOMAIN-SUFFIX,maven.org
-DOMAIN-SUFFIX,mvnrepository.com
-DOMAIN-SUFFIX,quay.io
-DOMAIN-SUFFIX,redhat.com
 DOMAIN-SUFFIX,sonatype.org
 DOMAIN-SUFFIX,sourcegraph.com
-DOMAIN-SUFFIX,spring.io
-DOMAIN-SUFFIX,spring.net
-
-# Discord
-DOMAIN-SUFFIX,discord.co
-DOMAIN-SUFFIX,discord.media
 
 # Facebook
 IP-CIDR,31.13.24.0/21,no-resolve
@@ -847,44 +771,11 @@ IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
 
-# Github
-DOMAIN-SUFFIX,githubapp.com
-
 # Google
-DOMAIN-SUFFIX,2mdn.net
-DOMAIN-SUFFIX,app-measurement.net
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,gvt0.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,gvt3.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-
-# GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
-IP-CIDR,120.232.181.162/32,no-resolve
-IP-CIDR,120.241.147.226/32,no-resolve
-IP-CIDR,120.253.253.226/32,no-resolve
-IP-CIDR,120.253.255.162/32,no-resolve
-IP-CIDR,120.253.255.34/32,no-resolve
-IP-CIDR,120.253.255.98/32,no-resolve
-IP-CIDR,180.163.150.162/32,no-resolve
-IP-CIDR,180.163.150.34/32,no-resolve
-IP-CIDR,180.163.151.162/32,no-resolve
-IP-CIDR,180.163.151.34/32,no-resolve
-IP-CIDR,203.208.39.0/24,no-resolve
-IP-CIDR,203.208.40.0/24,no-resolve
-IP-CIDR,203.208.41.0/24,no-resolve
-IP-CIDR,203.208.43.0/24,no-resolve
-IP-CIDR,203.208.50.0/24,no-resolve
-IP-CIDR,220.181.174.162/32,no-resolve
-IP-CIDR,220.181.174.226/32,no-resolve
-IP-CIDR,220.181.174.34/32,no-resolve
-
-# Instagram
-DOMAIN-SUFFIX,instagr.am
+IP-CIDR,74.125.0.0/16,no-resolve
+IP-CIDR,173.194.0.0/16,no-resolve
 
 # Kakao Talk
-DOMAIN-SUFFIX,kakao.co.kr
-DOMAIN-SUFFIX,kakaocdn.net
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,27.0.236.0/22,no-resolve
 IP-CIDR,103.27.148.0/22,no-resolve
@@ -893,10 +784,6 @@ IP-CIDR,110.76.140.0/22,no-resolve
 IP-CIDR,113.61.104.0/22,no-resolve
 
 # Line
-DOMAIN-SUFFIX,lin.ee
-DOMAIN-SUFFIX,line-cdn.net
-DOMAIN-SUFFIX,line.naver.jp
-DOMAIN-SUFFIX,nhncorp.jp
 IP-CIDR,103.2.28.0/24,no-resolve
 IP-CIDR,103.2.30.0/23,no-resolve
 IP-CIDR,119.235.224.0/24,no-resolve
@@ -905,27 +792,6 @@ IP-CIDR,119.235.235.0/24,no-resolve
 IP-CIDR,119.235.236.0/23,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
-
-# Oracle Cloud
-DOMAIN,cloud.oracle.com
-DOMAIN-SUFFIX,oraclecloud.com
-
-# OneDrive
-DOMAIN-KEYWORD,skydrive
-
-# Porn
-DOMAIN-SUFFIX,8teenxxx.com
-DOMAIN-SUFFIX,ahcdn.com
-DOMAIN-SUFFIX,bcvcdn.com
-DOMAIN-SUFFIX,dditscdn.com
-DOMAIN-SUFFIX,livejasmin.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,rdtcdn.com
-DOMAIN-SUFFIX,sb-cd.com
-DOMAIN-SUFFIX,ypncdn.com
-
-# Pixiv
-DOMAIN-SUFFIX,pximg.net
 
 # Spark
 DOMAIN-SUFFIX,amplitude.com
@@ -955,18 +821,6 @@ DOMAIN-SUFFIX,taptap.tw
 
 # Twitch
 DOMAIN-KEYWORD,ttvnw
-
-# Twitter
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.org
-
-# Telegram
-IP-CIDR6,2001:67c:4e8::/48,no-resolve
-IP-CIDR6,2001:b28:f23d::/48,no-resolve
-IP-CIDR6,2001:b28:f23f::/48,no-resolve
-
-# TeraBox
-DOMAIN-SUFFIX,teraboxcdn.com
 
 # Whatsapp
 IP-CIDR,34.224.0.0/12,no-resolve
