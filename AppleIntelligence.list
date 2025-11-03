@@ -1,0 +1,7 @@
+# NAME: AppleIntelligence.list
+# UPDATED: 2025-11-03 10:24:32
+# DOMAIN: 2
+# DOMAIN-KEYWORD: 0
+# TOTAL: 2
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.apple.com
