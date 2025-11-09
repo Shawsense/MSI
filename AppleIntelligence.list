@@ -1,7 +1,13 @@
 # NAME: AppleIntelligence.list
-# UPDATED: 2025-11-03 10:24:32
-# DOMAIN-SUFFIX: 2
-# DOMAIN-KEYWORD: 0
-# TOTAL: 2
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
+# UPDATED: 2025-11-08
+# TOTAL: 6
+
+# 1. Private Compute Cloud Relays (中继服务器)
 DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,cp4.cloudflare.com
+
+# 2. AI/Siri Backend Services (AI 核心后端)
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
