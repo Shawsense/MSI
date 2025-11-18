@@ -1,0 +1,22 @@
+# NAME: WiFiCalling_UK
+# DESC: 包含 Giffgaff, CMLink (EE), Vodafone 的 WiFi Calling 规则
+# UPDATED: 2025-01-28
+# NOTE: 这些规则必须走英国(UK)节点
+
+# --- 地区检测 (位置服务) ---
+# 用于欺骗 iOS 认为你在英国
+DOMAIN-SUFFIX,gspel-ssl.ls.apple.com
+
+# --- Vodafone (沃达丰) ---
+DOMAIN-SUFFIX,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org
+DOMAIN-SUFFIX,entsrv-uk.vodafone.com
+DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com
+IP-CIDR,88.82.0.0/19,no-resolve
+
+# --- CMLink UK (EE 网络) ---
+IP-CIDR,46.68.0.0/17,no-resolve
+
+# --- Giffgaff (O2 网络) ---
+IP-CIDR,87.194.0.0/16,no-resolve
