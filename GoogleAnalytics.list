@@ -1,0 +1,5 @@
+# Google Analytics 及其相关追踪/标签组件（强制放行防误杀）
+DOMAIN-SUFFIX,analytics.google.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,googleadservices.com
