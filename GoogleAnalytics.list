@@ -3,3 +3,5 @@ DOMAIN-SUFFIX,analytics.google.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googleadservices.com
+# Analytics App 移动端核心数据与基础验证接口
+DOMAIN-SUFFIX,analyticsmobile-pa.googleapis.com
