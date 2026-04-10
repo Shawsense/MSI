@@ -1,7 +1,11 @@
 # NAME: Tenso
-# UPDATED: 2024-08-01 21:48:04
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 1
-# TOTAL: 2
-DOMAIN,tenso.com
+# UPDATED: 2026-4-10
+# Tenso及VPN订阅
+DOMAIN-SUFFIX,tenso.com
 DOMAIN-KEYWORD,tenso
+
+# 新增的直连规则
+DOMAIN-SUFFIX,siamparagon.org
+DOMAIN-SUFFIX,nobodys.uk
+DOMAIN-SUFFIX,central-world.org
+DOMAIN-SUFFIX,parkson-market.org
