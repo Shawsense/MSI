@@ -1,11 +1,5 @@
 # NAME: Tenso
 # UPDATED: 2026-4-10
-# Tenso及VPN订阅
+# Tenso
 DOMAIN-SUFFIX,tenso.com
 DOMAIN-KEYWORD,tenso
-
-# 新增的直连规则
-DOMAIN-SUFFIX,siamparagon.org
-DOMAIN-SUFFIX,nobodys.uk
-DOMAIN-SUFFIX,central-world.org
-DOMAIN-SUFFIX,parkson-market.org
