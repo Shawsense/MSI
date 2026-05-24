@@ -1,4 +1,4 @@
-# GFW list (Deduplicated by Gemini)
+# GFW list 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
 DOMAIN-SUFFIX,0rz.tw
@@ -201,7 +201,6 @@ DOMAIN-SUFFIX,afantibbs.com
 DOMAIN-SUFFIX,afr.com
 DOMAIN-SUFFIX,afreecatv.com
 DOMAIN-SUFFIX,agnesb.fr
-DOMAIN-SUFFIX,agoogleaday.com
 DOMAIN-SUFFIX,agro.hk
 DOMAIN-SUFFIX,ai-kan.net
 DOMAIN-SUFFIX,ai-wen.net
@@ -289,9 +288,7 @@ DOMAIN-SUFFIX,ancsconf.org
 DOMAIN-SUFFIX,andfaraway.net
 DOMAIN-SUFFIX,android-x86.org
 DOMAIN-SUFFIX,androidapksfree.com
-DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,androidplus.co
-DOMAIN-SUFFIX,androidtv.com
 DOMAIN-SUFFIX,andygod.com
 DOMAIN-SUFFIX,angela-merkel.de
 DOMAIN-SUFFIX,angelfire.com
@@ -336,7 +333,6 @@ DOMAIN-SUFFIX,apartmentratings.com
 DOMAIN-SUFFIX,apartments.com
 DOMAIN-SUFFIX,apat1989.org
 DOMAIN-SUFFIX,apetube.com
-DOMAIN-SUFFIX,api.ai
 DOMAIN-SUFFIX,api.proxlet.com
 DOMAIN-SUFFIX,apiary.io
 DOMAIN-SUFFIX,apigee.com
@@ -771,10 +767,6 @@ IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
 
-# Google
-IP-CIDR,74.125.0.0/16,no-resolve
-IP-CIDR,173.194.0.0/16,no-resolve
-
 # Kakao Talk
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,27.0.236.0/22,no-resolve
@@ -797,23 +789,6 @@ IP-CIDR,203.104.128.0/19,no-resolve
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,readdle.com
-
-# Steam
-DOMAIN-SUFFIX,fanatical.com
-DOMAIN-SUFFIX,humblebundle.com
-DOMAIN-SUFFIX,underlords.com
-DOMAIN-SUFFIX,valvesoftware.com
-DOMAIN-SUFFIX,playartifact.com
-DOMAIN-SUFFIX,steam-chat.com
-DOMAIN-SUFFIX,steamgames.com
-DOMAIN-SUFFIX,steamserver.net
-DOMAIN-SUFFIX,steamstat.us
-DOMAIN,steambroadcast.akamaized.net
-DOMAIN,steamcommunity-a.akamaihd.net
-DOMAIN,steamstore-a.akamaihd.net
-DOMAIN,steamusercontent-a.akamaihd.net
-DOMAIN,steamuserimages-a.akamaihd.net
-DOMAIN,steampipe.akamaized.net
 
 # TapTap
 DOMAIN-SUFFIX,tap.io
