@@ -1,0 +1,39 @@
+dns:
+  enable: true
+  listen: 127.0.0.1:1053
+  ipv6: false
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+
+  default-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+
+  proxy-server-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+
+  fake-ip-filter:
+    - '*.lan'
+    - '*.local'
+    - '*.localhost'
+    - '*.localdomain'
+    - '*.home.arpa'
+    - '+.msftconnecttest.com'
+    - '+.msftncsi.com'
+    - 'mesu.apple.com'
+    - 'swscan.apple.com'
+    - 'swquery.apple.com'
+    - 'swdownload.apple.com'
+    - 'swcdn.apple.com'
+    - 'swdist.apple.com'
+    - '+.central-world.org'
+    - '+.terminal69.win'
+    - '+.mysiteress.com'
+    - '+.temporary-subscription.work'
+    - '+.siamparagon.org'
+    - '+.nobodys.uk'
