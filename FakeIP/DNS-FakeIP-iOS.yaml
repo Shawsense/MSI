@@ -1,3 +1,6 @@
+name: DNS Fake-IP iOS
+desc: iOS 端 Fake-IP DNS 覆写，适用于 Stash / Clash Mi，包含 fake-ip-filter 与订阅域名真实解析过滤。
+
 dns:
   enable: true
   ipv6: false
