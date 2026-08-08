@@ -1,11 +1,17 @@
 # NAME: WiFiCalling_UK
 # DESC: 包含 Giffgaff, CMLink (EE), Vodafone 的 WiFi Calling 规则
-# UPDATED: 2025-01-28
+# UPDATED: 2026-08-08
 # NOTE: 这些规则必须走英国(UK)节点
 
-# --- 地区检测 (位置服务) ---
-# 用于欺骗 iOS 认为你在英国
+# --- Apple 地区检测与承载校验 ---
+# 用于欺骗 iOS 认为你在英国，并维持运营商配置文件和 Wi-Fi Calling 权限有效
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,smp-device-content.apple.com
+DOMAIN-SUFFIX,entitlements.apple.com
+
+# --- 泛匹配 ePDG 通信域名 ---
+# 覆盖所有运营商的 3GPP 核心网接入点
+DOMAIN-SUFFIX,pub.3gppnetwork.org
 
 # --- Vodafone (沃达丰) ---
 DOMAIN-SUFFIX,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
@@ -18,6 +24,14 @@ IP-CIDR,88.82.0.0/19,no-resolve
 # --- CMLink UK (EE 网络) ---
 IP-CIDR,46.68.0.0/17,no-resolve
 
-# --- Giffgaff (O2 网络) ---
+# --- Giffgaff (O2 网络) IP段 ---
+# 补充了 O2 另一个常用的核心网 IP 段
 DOMAIN-SUFFIX,epdg.epc.mnc010.mcc234.pub.3gppnetwork.org
 IP-CIDR,87.194.0.0/16,no-resolve
+IP-CIDR,82.132.0.0/16,no-resolve
+
+# --- 强制 Wi-Fi Calling 隧道端口走代理 (终极保活) ---
+# Wi-Fi Calling 底层使用 IPSec 建立加密隧道，全球统一使用 UDP 500 和 4500 端口
+# 只要不漏掉这两个端口的流量，你的 Wi-Fi Calling 就能像全局模式一样稳如老狗
+DST-PORT,500
+DST-PORT,4500
