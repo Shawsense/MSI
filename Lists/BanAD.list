@@ -1,5 +1,4 @@
 # BanAD.list
-# 来源：机场官方 YAML 中的“🛑 广告过滤”规则。
 # 范围：仅保留中国大陆广告、国内广告 SDK 与国内厂商广告接口。
 # 排除：Google Ads、Google Analytics、Firebase、Crashlytics 及明显海外广告/统计平台。
 # 生成日期：2026-09-21
