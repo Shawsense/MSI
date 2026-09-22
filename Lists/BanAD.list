@@ -599,3 +599,23 @@ DOMAIN,ads.youtube.com
 DOMAIN,adsense.google.cn
 DOMAIN,adservice.google.com
 DOMAIN,afs.googlesyndication.com
+
+# 2026-09-22 天天跳绳开屏广告漏网规则新增
+DOMAIN,s.tuia.cn
+DOMAIN,tuia-adx-web.tuia.cn
+DOMAIN,event.tuia.cn
+DOMAIN,t2.fancyapi.com
+DOMAIN,sdkg.fancyapi.com
+DOMAIN,lftxali.fancyapi.com
+DOMAIN,mpcfg.fancydsp.com
+DOMAIN,sdkquic.e.qq.com
+DOMAIN,ipv4.gdt.qq.com
+DOMAIN,c3.gdt.qq.com
+DOMAIN,tm.sigmob.cn
+DOMAIN,tmv6.sigmob.cn
+DOMAIN,dcv6.sigmob.cn
+DOMAIN,tracktp.sigmob.cn
+DOMAIN,rtbcallback.sigmob.cn
+DOMAIN,mantis.bayescom.com
+DOMAIN,raddus.bayescom.com
+DOMAIN,errnewlog.umeng.com
