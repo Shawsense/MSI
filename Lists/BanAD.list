@@ -585,3 +585,17 @@ DOMAIN-KEYWORD,-ad.sm.cn
 DOMAIN-KEYWORD,-ad.video.yximgs.com
 DOMAIN-KEYWORD,-be-pack-sign.pglstatp-toutiao.com
 DOMAIN-KEYWORD,-normal.zijieapi.com
+
+## 2026-09-22：天天跳绳日志与官方 YAML 共同确认的漏网广告规则
+DOMAIN,mobads-pre-config.cdn.bcebos.com
+DOMAIN,sdk.1rtb.net
+DOMAIN-SUFFIX,1rtb.com
+
+## 2026-09-22：Google 明确广告投放服务（不含 Google Analytics/Firebase/Crashlytics）
+DOMAIN,ad.doubleclick.net
+DOMAIN,adclick.g.doubleclick.net
+DOMAIN,ads.google.cn
+DOMAIN,ads.youtube.com
+DOMAIN,adsense.google.cn
+DOMAIN,adservice.google.com
+DOMAIN,afs.googlesyndication.com
