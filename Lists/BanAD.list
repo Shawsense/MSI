@@ -622,7 +622,6 @@ DOMAIN,errnewlog.umeng.com
 
 # 2026-09-22 百度地图开屏广告漏网规则新增
 DOMAIN,integralwall.baidu.com
-DOMAIN,ecom.map.baidu.com
 DOMAIN,afd.baidu.com
 DOMAIN,afdconf.baidu.com
 DOMAIN,api-v3.mentamob.com
