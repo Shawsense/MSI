@@ -640,7 +640,7 @@ DOMAIN,imgcps1.jd.com
 DOMAIN,imgcps2.jd.com
 DOMAIN,imgcps3.jd.com
 
-# 2026-09-22 德施曼智能开屏广告第一批漏网规则
+# 2026-09-22 德施曼智能开屏广告规则
 DOMAIN-SUFFIX,yfanads.com
 DOMAIN-SUFFIX,maplehaze.cn
 DOMAIN,e.api.adwanji.com
@@ -653,3 +653,14 @@ DOMAIN,adimage.bwton.com
 DOMAIN,bridgeads.massx.com
 DOMAIN,adreport.adtianmai.com
 DOMAIN-SUFFIX,ad.xelements.cn
+DOMAIN-SUFFIX,yayaad.com
+DOMAIN-SUFFIX,galaxy-adx.com
+DOMAIN-SUFFIX,9zadx.com
+DOMAIN,ad-api.adn-plus.com.cn
+DOMAIN-SUFFIX,xdmssp.com
+DOMAIN,yuledr.66y.com
+DOMAIN,bydk.66y.com
+DOMAIN,dl01yldr.youxinhuyu.cn
+DOMAIN,dl02lele.youxinhuyu.cn
+DOMAIN,dl04bydk.youxinhuyu.cn
+DOMAIN,m.advast.cn
