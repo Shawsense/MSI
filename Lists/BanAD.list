@@ -641,3 +641,8 @@ DOMAIN,cpc-service-square.iggrowth.cn
 DOMAIN,sdk-track.66mobi.com
 DOMAIN,www.qchannel01.cn
 DOMAIN,i.qchannel03.cn
+
+# 2026-09-22 京东开屏广告第一批测试规则
+DOMAIN,imgcps1.jd.com
+DOMAIN,imgcps2.jd.com
+DOMAIN,imgcps3.jd.com
