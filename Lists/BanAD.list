@@ -1,6 +1,6 @@
 # BanAD.list
-# 范围：仅保留中国大陆广告、国内广告 SDK 与国内厂商广告接口。
-# 排除：Google Ads、Google Analytics、Firebase、Crashlytics 及明显海外广告/统计平台。
+# 范围：主要针对中国大陆广告、国内广告 SDK 与国内厂商广告接口，但同时覆盖Google ads等明显的海外广告平台。
+# 排除：Google Analytics、Firebase、Crashlytics 及明显海外统计平台。
 # 生成日期：2026-09-21
 
 DOMAIN,a0.app.xiaomi.com
@@ -593,7 +593,7 @@ DOMAIN,adsense.google.cn
 DOMAIN,adservice.google.com
 DOMAIN,afs.googlesyndication.com
 
-# 2026-09-22 天天跳绳开屏广告漏网规则新增
+# 2026-09-22 天天跳绳开屏广告规则
 DOMAIN,s.tuia.cn
 DOMAIN,tuia-adx-web.tuia.cn
 DOMAIN,event.tuia.cn
@@ -613,7 +613,7 @@ DOMAIN,mantis.bayescom.com
 DOMAIN,raddus.bayescom.com
 DOMAIN,errnewlog.umeng.com
 
-# 2026-09-22 百度地图开屏广告漏网规则新增
+# 2026-09-22 百度地图开屏广告规则
 DOMAIN,integralwall.baidu.com
 DOMAIN,afd.baidu.com
 DOMAIN,afdconf.baidu.com
@@ -635,7 +635,7 @@ DOMAIN,sdk-track.66mobi.com
 DOMAIN,www.qchannel01.cn
 DOMAIN,i.qchannel03.cn
 
-# 2026-09-22 京东开屏广告第一批测试规则
+# 2026-09-22 京东开屏广告规则
 DOMAIN,imgcps1.jd.com
 DOMAIN,imgcps2.jd.com
 DOMAIN,imgcps3.jd.com
@@ -664,5 +664,3 @@ DOMAIN,dl01yldr.youxinhuyu.cn
 DOMAIN,dl02lele.youxinhuyu.cn
 DOMAIN,dl04bydk.youxinhuyu.cn
 DOMAIN,m.advast.cn
-
-# 2026-09-22 花伴侣开屏广告规则
