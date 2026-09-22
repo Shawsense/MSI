@@ -91,12 +91,8 @@ DOMAIN,adv.sec.intl.miui.com
 DOMAIN,adv.sec.miui.com
 DOMAIN,adview.cn
 DOMAIN,adx-ad.smart-tv.cn
-DOMAIN,adx-bj-req.anythinktech.com
-DOMAIN,adx-bj.anythinktech.com
-DOMAIN,adx-cn.anythinktech.com
 DOMAIN,adx-drcn.op.dbankcloud.cn
 DOMAIN,adx-open-service.youku.com
-DOMAIN,adx-os.anythinktech.com
 DOMAIN,adx-saas.advlion.com
 DOMAIN,adx.ads.heytapmobi.com
 DOMAIN,adx.ads.oppomobile.com
@@ -133,7 +129,7 @@ DOMAIN,api-ad-product.huxiu.com
 DOMAIN,api-gd.hiaiabc.com
 DOMAIN,api-htp.beizi.biz
 DOMAIN,api.ad.xiaomi.com
-DOMAIN,api.anythinktech.com
+DOMAIN-SUFFIX,anythinktech.com
 DOMAIN,api.aqyad.com
 DOMAIN,api.e.kuaishou.com
 DOMAIN,api.htp.hubcloud.com.cn
@@ -187,7 +183,6 @@ DOMAIN,chiq-cloud.com
 DOMAIN,ck.ads.oppomobile.com
 DOMAIN,click.oneplus.cn
 DOMAIN,clog.miguvideo.com
-DOMAIN,cn-api.anythinktech.com
 DOMAIN,cnlogs.umeng.com
 DOMAIN,cnlogs.umengcloud.com
 DOMAIN,collect.kugou.com
@@ -196,7 +191,6 @@ DOMAIN,conf.hpplay.cn
 DOMAIN,cpc-service-square.aiclk.com
 DOMAIN,cpro.baidustatic.com
 DOMAIN,crash2.zhihu.com
-DOMAIN,da.anythinktech.com
 DOMAIN,data-sdk-uuid-log.d.meituan.net
 DOMAIN,data.ads.oppomobile.com
 DOMAIN,data.mistat.india.xiaomi.com
@@ -474,7 +468,6 @@ DOMAIN,test.ad.xiaomi.com
 DOMAIN,test.e.ad.xiaomi.com
 DOMAIN,tj.b.qq.com
 DOMAIN,tj.video.qq.com
-DOMAIN,tk.anythinktech.com
 DOMAIN,tmead.y.qq.com
 DOMAIN,tmeadcomm.y.qq.com
 DOMAIN,tmfmazu-wangka.m.qq.com
@@ -588,8 +581,8 @@ DOMAIN-KEYWORD,-normal.zijieapi.com
 
 ## 2026-09-22：天天跳绳日志与官方 YAML 共同确认的漏网广告规则
 DOMAIN,mobads-pre-config.cdn.bcebos.com
-DOMAIN,sdk.1rtb.net
 DOMAIN-SUFFIX,1rtb.com
+DOMAIN-SUFFIX,1rtb.net
 
 ## 2026-09-22：Google 明确广告投放服务（不含 Google Analytics/Firebase/Crashlytics）
 DOMAIN,ad.doubleclick.net
@@ -654,3 +647,9 @@ DOMAIN,e.api.adwanji.com
 DOMAIN-SUFFIX,bridgeoos.com
 DOMAIN-SUFFIX,adbiding.com
 DOMAIN,outservice.v1.zadervice.com
+DOMAIN-SUFFIX,appsad.cn
+DOMAIN-SUFFIX,52qumao.com
+DOMAIN,adimage.bwton.com
+DOMAIN,bridgeads.massx.com
+DOMAIN,adreport.adtianmai.com
+DOMAIN-SUFFIX,ad.xelements.cn
