@@ -646,3 +646,6 @@ DOMAIN,i.qchannel03.cn
 DOMAIN,imgcps1.jd.com
 DOMAIN,imgcps2.jd.com
 DOMAIN,imgcps3.jd.com
+
+# 2026-09-22 中国电信启动推广页测试规则
+DOMAIN,appgoadhd.189.cn
