@@ -619,3 +619,26 @@ DOMAIN,rtbcallback.sigmob.cn
 DOMAIN,mantis.bayescom.com
 DOMAIN,raddus.bayescom.com
 DOMAIN,errnewlog.umeng.com
+
+# 2026-09-22 百度地图开屏广告漏网规则新增
+DOMAIN,integralwall.baidu.com
+DOMAIN,ecom.map.baidu.com
+DOMAIN,afd.baidu.com
+DOMAIN,afdconf.baidu.com
+DOMAIN,api-v3.mentamob.com
+DOMAIN,api-nxs-v4.mentamob.com
+DOMAIN,adx-strategy-api-cn.statisticslinks.com
+DOMAIN,adx-micro.statisticslinks.com
+DOMAIN,da.statisticslinks.com
+DOMAIN,tk.statisticslinks.com
+DOMAIN-SUFFIX,ubixioe.com
+DOMAIN,cpc-service-square.yunxish.com
+DOMAIN,logrcv.yunxish.com
+DOMAIN,tracelog-debug.yunxish.com
+DOMAIN,api.yunxish.com
+DOMAIN,service.yunxish.com
+DOMAIN,usr-api.yunxish.com
+DOMAIN,cpc-service-square.iggrowth.cn
+DOMAIN,sdk-track.66mobi.com
+DOMAIN,www.qchannel01.cn
+DOMAIN,i.qchannel03.cn
