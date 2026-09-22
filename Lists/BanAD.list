@@ -647,5 +647,10 @@ DOMAIN,imgcps1.jd.com
 DOMAIN,imgcps2.jd.com
 DOMAIN,imgcps3.jd.com
 
-# 2026-09-22 中国电信启动推广页测试规则
-DOMAIN,appgoadhd.189.cn
+# 2026-09-22 德施曼智能开屏广告第一批漏网规则
+DOMAIN-SUFFIX,yfanads.com
+DOMAIN-SUFFIX,maplehaze.cn
+DOMAIN,e.api.adwanji.com
+DOMAIN-SUFFIX,bridgeoos.com
+DOMAIN-SUFFIX,adbiding.com
+DOMAIN,outservice.v1.zadervice.com
