@@ -2,6 +2,7 @@
 # 范围：主要针对中国大陆广告、国内广告 SDK 与国内厂商广告接口，但同时覆盖Google ads等明显的海外广告平台。
 # 排除：Google Analytics、Firebase、Crashlytics 及明显海外统计平台。
 # 生成日期：2026-09-21
+# 修订日期：2026-11-02
 
 DOMAIN,a0.app.xiaomi.com
 DOMAIN,aaid.umeng.com
