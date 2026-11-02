@@ -634,6 +634,11 @@ DOMAIN,cpc-service-square.iggrowth.cn
 DOMAIN,sdk-track.66mobi.com
 DOMAIN,www.qchannel01.cn
 DOMAIN,i.qchannel03.cn
+# 2026-11-02 新增百度地图开屏广告规则
+DOMAIN,bddt-sdk.adwangmai.com
+DOMAIN,cpc-service-square.58iclick.com
+DOMAIN,tencent-ssp.66mobi.com
+DOMAIN,api.mobrtb.com
 
 # 2026-09-22 京东开屏广告规则
 DOMAIN,imgcps1.jd.com
