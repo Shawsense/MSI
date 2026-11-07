@@ -644,6 +644,8 @@ DOMAIN,tstatic.66mobi.com
 DOMAIN,applus.fancydsp.com
 DOMAIN,publisher-api-mini.deepleaper.com
 DOMAIN,adx.ys7.com
+# 2026-11-07 百度地图京东开屏广告关联域名，待验证
+DOMAIN,im-x.jd.com
 
 # 2026-09-22 京东开屏广告规则
 DOMAIN,imgcps1.jd.com
